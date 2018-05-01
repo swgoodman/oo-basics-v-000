@@ -39,6 +39,4 @@ class Shoe
     condition = "New"
   end
 
-
-
 end
